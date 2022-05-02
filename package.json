@@ -1,0 +1,25 @@
+{
+  "name": "secondwetube",
+  "version": "1.0.0",
+  "description": "video streaming service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUNSEULGI/wetube.git"
+  },
+  "author": "JUNSEULGI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUNSEULGI/wetube/issues"
+  },
+  "homepage": "https://github.com/JUNSEULGI/wetube#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.10"
+  }
+}
